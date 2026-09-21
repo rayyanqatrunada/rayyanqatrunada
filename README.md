@@ -31,7 +31,7 @@
 
 <table>
 <tr>
-<td width="72%" valign="top">
+<td width="65%" valign="middle">
 
 I'm a vocational high school student majoring in **Software & Game Development**, focusing on backend development and building structured, maintainable web applications.
 
@@ -44,8 +44,8 @@ I'm a vocational high school student majoring in **Software & Game Development**
 - **Portfolio**: [ast-luna.com](https://ast-luna.com)
 
 </td>
-<td width="28%" align="center" valign="middle">
-  <img src="./assets/about-art.png" alt="Rayy Art" width="150" />
+<td width="35%" align="center" valign="middle">
+  <img src="./assets/about-art.png" alt="Rayy Art" width="220" />
 </td>
 </tr>
 </table>
@@ -58,11 +58,11 @@ I'm a vocational high school student majoring in **Software & Game Development**
 ### GitHub Statistics
 
 <a href="https://github.com/rayyanqatrunada">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rayyanqatrunada&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayyanqatrunada&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d&hide_border=false&count_private=true" alt="GitHub Stats" />
 </a>
 &ensp;
 <a href="https://github.com/rayyanqatrunada">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanqatrunada&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=21262d&hide_border=false&langs_count=6" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayyanqatrunada&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=21262d&hide_border=false&langs_count=6" alt="Top Languages" />
 </a>
 
 <br/><br/>
@@ -74,7 +74,7 @@ I'm a vocational high school student majoring in **Software & Game Development**
 <br/><br/>
 
 <a href="https://github.com/rayyanqatrunada">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayyanqatrunada&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=rayyanqatrunada&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
 </a>
 
 </div>
@@ -105,59 +105,52 @@ I'm a vocational high school student majoring in **Software & Game Development**
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<div align="center">
-  <img src="./assets/compify.png" alt="Compify" width="100%" />
-  <br/><br/>
-  <strong>Compify</strong>
-  <br/>
-  <sub><code>Laravel</code> · <code>Livewire</code> · <code>MySQL</code></sub>
-</div>
-<br/>
-
-Hardware e-commerce platform featuring product filtering, cart, wishlist, and admin management.
-
-<br/>
-<div align="center">
-  <a href="https://github.com/rayyanqatrunada/Compify"><code>View Repository ▸</code></a>
-</div>
-</td>
-
-<td width="33%" valign="top">
-<div align="center">
-  <img src="./assets/pmart.png" alt="PMart" width="100%" />
-  <br/><br/>
-  <strong>PMart</strong>
-  <br/>
-  <sub><code>Laravel</code> · <code>Filament</code> · <code>MySQL</code></sub>
-</div>
-<br/>
-
-Multi-vendor campus marketplace with seller dashboards, catalog management, and order processing.
-
-<br/>
-<div align="center">
-  <a href="https://github.com/rayyanqatrunada/PMart-test"><code>View Repository ▸</code></a>
-</div>
-</td>
-
-<td width="33%" valign="top">
-<div align="center">
-  <img src="./assets/otomotif.png" alt="Teknik Otomotif" width="100%" />
-  <br/><br/>
-  <strong>Teknik Otomotif</strong>
-  <br/>
-  <sub><code>Laravel</code> · <code>Filament</code> · <code>MySQL</code></sub>
-</div>
-<br/>
-
-Department portal managing announcements, academic info, industry partnerships, and student achievements.
-
-<br/>
-<div align="center">
-  <a href="https://github.com/rayyanqatrunada/toweb"><code>View Repository ▸</code></a>
-</div>
-</td>
+  <td width="33%" align="center" valign="top">
+    <img src="./assets/compify.png" alt="Compify" width="100%" />
+    <br/><br/>
+    <strong>Compify</strong>
+    <br/>
+    <sub><code>Laravel</code> · <code>Livewire</code> · <code>MySQL</code></sub>
+  </td>
+  <td width="33%" align="center" valign="top">
+    <img src="./assets/pmart.png" alt="PMart" width="100%" />
+    <br/><br/>
+    <strong>PMart</strong>
+    <br/>
+    <sub><code>Laravel</code> · <code>Filament</code> · <code>MySQL</code></sub>
+  </td>
+  <td width="33%" align="center" valign="top">
+    <img src="./assets/otomotif.png" alt="Teknik Otomotif" width="100%" />
+    <br/><br/>
+    <strong>Teknik Otomotif</strong>
+    <br/>
+    <sub><code>Laravel</code> · <code>Filament</code> · <code>MySQL</code></sub>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    Hardware e-commerce platform featuring product filtering, cart, wishlist, and admin management.
+  </td>
+  <td valign="top">
+    Multi-vendor campus marketplace with seller dashboards, catalog management, and order processing.
+  </td>
+  <td valign="top">
+    Department portal managing announcements, academic info, industry partnerships, and student achievements.
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="bottom">
+    <br/>
+    <a href="https://github.com/rayyanqatrunada/Compify"><code>View Repository ▸</code></a>
+  </td>
+  <td align="center" valign="bottom">
+    <br/>
+    <a href="https://github.com/rayyanqatrunada/PMart-test"><code>View Repository ▸</code></a>
+  </td>
+  <td align="center" valign="bottom">
+    <br/>
+    <a href="https://github.com/rayyanqatrunada/toweb"><code>View Repository ▸</code></a>
+  </td>
 </tr>
 </table>
 
