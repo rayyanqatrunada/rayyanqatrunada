@@ -4,7 +4,7 @@
 
   <br/><br/>
 
-  <h1>Hi, I'm Rayy</h1>
+  <h1>Hi, I'm Rayyan</h1>
 
   <p><strong>Software & Game Development Student · Backend Development Focus</strong></p>
   <p>Building web applications, learning backend architecture, and database design.</p>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &ensp;
-  <a href="https://ast-luna.com">
+  <a href="https://rayy_portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff" alt="Portfolio" />
   </a>
   &ensp;
@@ -119,7 +119,7 @@ Hardware e-commerce platform featuring product filtering, cart, wishlist, and ad
 
 <br/>
 <div align="center">
-  <a href="REPOSITORY_URL_COMPIFY"><code>View Repository ▸</code></a>
+  <a href="https://github.com/rayyanqatrunada/Compify"><code>View Repository ▸</code></a>
 </div>
 </td>
 
@@ -137,7 +137,7 @@ Multi-vendor campus marketplace with seller dashboards, catalog management, and 
 
 <br/>
 <div align="center">
-  <a href="REPOSITORY_URL_PMART"><code>View Repository ▸</code></a>
+  <a href="https://github.com/rayyanqatrunada/PMart-test"><code>View Repository ▸</code></a>
 </div>
 </td>
 
@@ -155,7 +155,7 @@ Department portal managing announcements, academic info, industry partnerships, 
 
 <br/>
 <div align="center">
-  <a href="REPOSITORY_URL_OTOMOTIF"><code>View Repository ▸</code></a>
+  <a href="https://github.com/rayyanqatrunada/toweb"><code>View Repository ▸</code></a>
 </div>
 </td>
 </tr>
